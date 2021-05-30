@@ -1,1 +1,0 @@
-## Primeiro jogo com interface de comando usando node.js na Aula da Gama Academy
